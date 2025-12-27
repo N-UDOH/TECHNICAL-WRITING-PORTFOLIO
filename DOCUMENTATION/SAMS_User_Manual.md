@@ -68,9 +68,10 @@ Built as a PWA, the application offers an "App-like" experience:
 ---
 
 ---
+---
 ### 👨‍💻 Developed By
-**N.A Udoh**
-*Lead Ai Developer*
-*Aifiok Business & Tech Solutions. RC:8097734* 
-*Nigeria*
+**N.A Udoh**<br>
+Lead AI Developer<br>
+Aifiok Business & Tech Solutions. RC:8097734<br>
+Nigeria<br>
 © 2025 All Rights Reserved.
