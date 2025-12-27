@@ -67,6 +67,9 @@ Built as a PWA, the application offers an "App-like" experience:
 
 ---
 
-** N.A Udoh **
-** CEO, Aifiok Business and Tech Solutions. **
-** © 2025 **
+---
+### 👨‍💻 Developed By
+**N.A Udoh**
+*CEO, Aifiok Business and Tech Solutions*
+
+© 2025 All Rights Reserved.
